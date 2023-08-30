@@ -146,3 +146,4 @@ Received Import Request.
   path: Assets/DungeonBaseSet.prefab
   artifactKey: Guid(cdabb89380341c9489378714273b699e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/DungeonBaseSet.prefab using Guid(cdabb89380341c9489378714273b699e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12044724956b551cdcf4f6c30c292bd3') in 0.020285 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
